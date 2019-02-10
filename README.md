@@ -1,2 +1,2 @@
 # dp
-distributed programming
+distributed programming // распределенное программирование
