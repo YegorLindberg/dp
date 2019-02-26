@@ -1,0 +1,14 @@
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/bin/Debug/netcoreapp2.2/Backend.deps.json
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.json
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/bin/Debug/netcoreapp2.2/Backend.runtimeconfig.dev.json
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/bin/Debug/netcoreapp2.2/Backend.dll
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/bin/Debug/netcoreapp2.2/Backend.pdb
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.csprojAssemblyReference.cache
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.csproj.CoreCompileInputs.cache
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cache
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.RazorAssemblyInfo.cs
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfoInputs.cache
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.AssemblyInfo.cs
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.RazorTargetAssemblyInfo.cache
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.dll
+/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/Debug/netcoreapp2.2/Backend.pdb

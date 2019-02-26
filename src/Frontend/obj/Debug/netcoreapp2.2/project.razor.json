@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Frontend/Frontend.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
