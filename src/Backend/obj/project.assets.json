@@ -14220,11 +14220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/Backend.csproj",
+      "projectUniqueName": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Backend/Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/Backend.csproj",
+      "projectPath": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Backend/Backend.csproj",
       "packagesPath": "/Users/yegor.lindberg/.nuget/packages/",
-      "outputPath": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Backend/obj/",
+      "outputPath": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Backend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

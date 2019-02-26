@@ -14220,11 +14220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Frontend/Frontend.csproj",
+      "projectUniqueName": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Frontend/Frontend.csproj",
       "projectName": "Frontend",
-      "projectPath": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Frontend/Frontend.csproj",
+      "projectPath": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Frontend/Frontend.csproj",
       "packagesPath": "/Users/yegor.lindberg/.nuget/packages/",
-      "outputPath": "/Users/yegor.lindberg/Documents/GitHub/distributed/ds-1/src/Frontend/obj/",
+      "outputPath": "/Users/yegor.lindberg/Documents/GitHub/dp/src/Frontend/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
