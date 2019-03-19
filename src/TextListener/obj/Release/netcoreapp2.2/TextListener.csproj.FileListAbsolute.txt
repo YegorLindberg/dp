@@ -1,0 +1,11 @@
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/bin/Release/netcoreapp2.2/TextListener.deps.json
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/bin/Release/netcoreapp2.2/TextListener.runtimeconfig.json
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/bin/Release/netcoreapp2.2/TextListener.runtimeconfig.dev.json
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/bin/Release/netcoreapp2.2/TextListener.dll
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/bin/Release/netcoreapp2.2/TextListener.pdb
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.csprojAssemblyReference.cache
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.csproj.CoreCompileInputs.cache
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.AssemblyInfoInputs.cache
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.AssemblyInfo.cs
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.dll
+/Users/yegor.lindberg/Documents/GitHub/dp/src/TextListener/obj/Release/netcoreapp2.2/TextListener.pdb
