@@ -23,7 +23,12 @@ namespace Frontend.Controllers
         }
 
         [HttpPost("upload")]
-        public async Task<IActionResult> Upload(string data)
+        public async Task<IActionResult> UploadAsync(string data)
+        {
+            return Ok(await Upload(data));
+        }
+
+        private async Task<IActionResult> Upload(string data)
         {
             HttpClient client = new HttpClient();
             client.BaseAddress = new Uri("http://localhost:5000");
